@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startExistingApplication('com.she.sehatq')
+Mobile.startApplication('C:\\Users\\sugih\\Downloads\\SehatQcom.she.sehatqv3.1.0.apk', false)
 
 Mobile.waitForElementPresent(findTestObject('Object Repository/Login/android.widget.ImageView'), 0)
 
