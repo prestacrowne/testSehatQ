@@ -3,7 +3,7 @@
    <description></description>
    <name>android.widget.TextView - Lihat Profil</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>81202033-bcd6-4e74-8260-38b7110a7798</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -12,6 +12,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
+      <webElementGuid>0c166d27-20f9-4aaf-aab4-b0cc8697f34a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -19,6 +20,7 @@
       <name>index</name>
       <type>Main</type>
       <value>8</value>
+      <webElementGuid>33c2fe0e-b586-4699-a0ea-d738d0aa6653</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,6 +28,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lihat Profil</value>
+      <webElementGuid>a18c0512-6bbe-41e1-8438-6db24c33f82c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -33,6 +36,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.she.sehatq:id/tvDetailProfile</value>
+      <webElementGuid>a19ed150-dc84-4d46-8b25-5518a25cbc0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -40,6 +44,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.she.sehatq</value>
+      <webElementGuid>a5dde11b-1939-48e0-a850-eb1e9ca22df0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,6 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>6b07166f-260f-4de1-97fa-9d9c9fdd5e41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,6 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>940312ee-24c5-42af-ac2b-e433bfe2972b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,6 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>e04c91a4-6908-495e-b793-4f77292b254b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,6 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>31434648-f9c6-4ebd-bc1d-2897d1daa0f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,6 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>44bbe06c-214c-4677-ae5b-d0b181a997a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -82,6 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>f424d5a8-7d2b-4a97-a2ac-58544644f796</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,6 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>5c325b7d-e695-471d-91e5-02b1be65809b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -96,6 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>5ecb64d8-6fd7-4274-93ed-89f1039784d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,6 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>7d7e9b1f-048f-431e-919a-62dcc8e20dff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,6 +124,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
+      <webElementGuid>d70aa5da-fa4d-4889-b115-cc7afcb3b33c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,6 +132,7 @@
       <name>x</name>
       <type>Main</type>
       <value>310</value>
+      <webElementGuid>8d634567-3957-4eb8-865d-f95bb3f8ed49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,6 +140,7 @@
       <name>y</name>
       <type>Main</type>
       <value>457</value>
+      <webElementGuid>56e3fa99-812f-4270-a09a-711969d3401f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -131,6 +148,7 @@
       <name>width</name>
       <type>Main</type>
       <value>263</value>
+      <webElementGuid>7d55bce4-54b1-4966-84d0-a5af1607ba25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -138,6 +156,7 @@
       <name>height</name>
       <type>Main</type>
       <value>60</value>
+      <webElementGuid>d971caac-30b0-4c5e-8eb5-34ce8d138a71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -145,6 +164,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[310,457][573,517]</value>
+      <webElementGuid>50e6e590-55f2-4816-bae0-82042457b92e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -152,6 +172,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
+      <webElementGuid>662252b1-41d6-4731-8cf8-8ace1dc29037</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -159,6 +180,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.TextView[5]</value>
+      <webElementGuid>95c5b8ca-a18c-4509-86d1-61826ab93808</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.TextView' and (@text = 'Lihat Profil' or . = 'Lihat Profil') and @resource-id = 'com.she.sehatq:id/tvDetailProfile']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

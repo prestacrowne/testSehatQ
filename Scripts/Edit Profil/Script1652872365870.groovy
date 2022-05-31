@@ -25,13 +25,13 @@ Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Object Repository/Edit Profil/android.widget.ImageView'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Edit Profil/android.widget.TextView - Lihat Profil'), 0)
+Mobile.tap(findTestObject('Edit Profil/android.widget.TextView - Lihat Profil'), 0)
 
 Mobile.scrollToText('Edit Profil', FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Object Repository/Edit Profil/android.widget.Button - Edit Profil'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Edit Profil/android.widget.EditText - Maulana'), 'Prestra', 0)
+Mobile.setText(findTestObject('Object Repository/Edit Profil/android.widget.EditText - Preestra'), 'Maulana', 0)
 
 Mobile.scrollToText('Simpan', FailureHandling.STOP_ON_FAILURE)
 
@@ -42,13 +42,13 @@ Mobile.waitForElementPresent(findTestObject('Object Repository/Edit Profil/andro
 
 Mobile.tap(findTestObject('Object Repository/Edit Profil/android.widget.Button - Ok'), 0)
 
-Mobile.waitForElementPresent(findTestObject('Object Repository/Edit Profil/android.widget.TextView - Prestra'), 0)
+Mobile.waitForElementPresent(findTestObject('Edit Profil/android.widget.TextView - Maulana'), 0)
 
 Mobile.scrollToText('Edit Profil', FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Object Repository/Edit Profil/android.widget.Button - Edit Profil'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Edit Profil/android.widget.EditText - Prestra'), 'Maulana', 0)
+Mobile.setText(findTestObject('Object Repository/Edit Profil/android.widget.EditText - Maulana'), 'Preestra', 0)
 
 Mobile.scrollToText('Simpan', FailureHandling.STOP_ON_FAILURE)
 
@@ -59,7 +59,7 @@ Mobile.waitForElementPresent(findTestObject('Object Repository/Edit Profil/andro
 
 Mobile.tap(findTestObject('Object Repository/Edit Profil/android.widget.Button - Ok'), 0)
 
-Mobile.waitForElementPresent(findTestObject('Object Repository/Edit Profil/android.widget.TextView - Maulana'), 0)
+Mobile.waitForElementPresent(findTestObject('Edit Profil/android.widget.TextView - Preestra'), 0)
 
 Mobile.closeApplication()
 
